@@ -1,0 +1,5 @@
+name: moo
+description: does stuff
+groups: []
+dependencies: ['NONE']
+help: http://www.github.com/debug
