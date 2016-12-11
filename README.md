@@ -1,0 +1,2 @@
+# pyplug
+Generic Plugin Framework
